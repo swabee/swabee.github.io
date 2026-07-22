@@ -42623,7 +42623,7 @@ afK(){var s=$.a3.a8$.x.i(0,this.d)
 if(s==null)return
 this.a7(new A.aoh(this,A.bi(t.x.a(s.ga5()).aJ(null),B.h).b/A.p(s,null,t.w).w.a.b))},
 K(a){var s=null,r=this.e,q=t.p
-return new A.ea(new A.aoj(this),new A.af(s,500,A.f9(B.bq,A.b([A.Kg(A.ay1(new A.Ny(B.ej,650,A.cM("assets/images/herojpeg",B.af,650,1/0),s),new A.i(0,r),!0),B.M),A.fi(s,s,B.C,A.aE(140,B.l.B()>>>16&255,B.l.B()>>>8&255,B.l.B()&255),s,s,s,s,s,s,s,s,s),A.iV(new A.ck(B.I_,A.bF(A.b([A.cG("Past Memories Become Future Smiles",s,s,s,s,A.aM(a,B.i,B.au,1.2,42),B.b2,s,s),B.zy,A.A6(A.bR(120),A.cG("Contact Us",s,s,s,s,A.aM(a,B.i,s,s,s),s,s,s),45,B.l,B.cm,200)],q),B.u,B.w,B.f2),s),s,s)],q),B.M,B.SL),this.d),s,t.WA)}}
+return new A.ea(new A.aoj(this),new A.af(s,500,A.f9(B.bq,A.b([A.Kg(A.ay1(new A.Ny(B.ej,650,A.cM("assets/images/hero.jpeg",B.af,650,1/0),s),new A.i(0,r),!0),B.M),A.fi(s,s,B.C,A.aE(140,B.l.B()>>>16&255,B.l.B()>>>8&255,B.l.B()&255),s,s,s,s,s,s,s,s,s),A.iV(new A.ck(B.I_,A.bF(A.b([A.cG("Past Memories Become Future Smiles",s,s,s,s,A.aM(a,B.i,B.au,1.2,42),B.b2,s,s),B.zy,A.A6(A.bR(120),A.cG("Contact Us",s,s,s,s,A.aM(a,B.i,s,s,s),s,s,s),45,B.l,B.cm,200)],q),B.u,B.w,B.f2),s),s,s)],q),B.M,B.SL),this.d),s,t.WA)}}
 A.aoh.prototype={
 $0(){this.a.e=this.b*80},
 $S:0}
